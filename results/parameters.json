@@ -1,0 +1,14 @@
+{
+  "arrival_rate": 20.0,
+  "service_mean": 2.0,
+  "hours": 8.0,
+  "cashiers": [
+    1,
+    2,
+    3
+  ],
+  "runs": 200,
+  "threshold": 5.0,
+  "seed": 42,
+  "output": "D:\\\u0443\u043d\u0438\u043a\\\u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b\\\u041a\u041c\\lab3\\results"
+}
