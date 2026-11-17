@@ -1,0 +1,32 @@
+# Виртуальные среды Python
+.venv/
+venv/
+env/
+
+# Кэш и временные файлы Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Результаты моделирования (создаются при запуске)
+results/
+results_*/
+
+# Исходные лекции остаются только локально
+Материалы/
+
+# Локальные настройки IDE
+.idea/
+.vscode/
+
+# Локальные переменные окружения
+.env
+.env.*
+!.env.example
+
+# Служебные файлы операционной системы
+.DS_Store
+Thumbs.db
+Desktop.ini

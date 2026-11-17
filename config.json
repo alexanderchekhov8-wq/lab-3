@@ -1,0 +1,10 @@
+{
+  "arrival_rate": 20,
+  "service_mean": 2,
+  "hours": 8,
+  "cashiers": [1, 2, 3],
+  "runs": 200,
+  "threshold": 5,
+  "seed": 42,
+  "output": "results"
+}
